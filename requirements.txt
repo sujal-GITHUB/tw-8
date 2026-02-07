@@ -1,0 +1,8 @@
+requests
+tweepy
+openai
+pydantic
+python-dotenv
+schedule
+google-generativeai
+langchain
